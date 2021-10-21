@@ -1,0 +1,7 @@
+{
+  "helloWorld": "Olá mundo!",
+  "@helloWorld": {
+    "description": "Estudando internacionalização com flutter."
+  },
+  "secondText": "Estudando internacionalização com flutter."
+}
